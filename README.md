@@ -1,6 +1,6 @@
-# quote_app
+# Flutter Quote App
 
-A new Flutter application.
+A new Flutter application for displaying Quotes through Api Call.
 
 ## Getting Started
 
